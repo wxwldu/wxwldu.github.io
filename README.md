@@ -1,3 +1,3 @@
 # wxwldu.github.io
 
-wxwldu's log
+wxwldu's blog
